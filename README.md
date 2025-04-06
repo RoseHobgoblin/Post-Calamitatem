@@ -2,32 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Post Calamitatem Modpack Documentation</title>
 </head>
 <body>
 
   <h1>Post Calamitatem Modpack Documentation</h1>
 
   <section>
-    <h2>Library & Performance Mods</h2>
+    <h2>Library Mods</h2>
     <ul>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/architectury-api">Architectury</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/badpackets">Bad Packets</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/balm">Balm</a></li>
       <li><a href="https://modrinth.com/mod/corgilib">CorgiLib</a></li>
-      <li><a href="https://modrinth.com/mod/embeddium">Embeddium</a></li>
-      <li><a href="https://modrinth.com/mod/entityculling">EntityCulling</a></li>
-      <li><a href="https://modrinth.com/mod/ferrite-core">Ferrite Core</a></li>
-      <li><a href="https://modrinth.com/mod/flerovium">Flerovium</a></li>
       <li><a href="https://modrinth.com/mod/forgeified-fabric-api">Forgified Fabric API</a></li>
       <li><a href="https://modrinth.com/mod/geckolib">GeckoLib 4</a></li>
-      <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a></li>
       <li>Integrated API (unknown; please provide a link if custom)</li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge">Kotlin for Forge</a></li>
       <li><a href="https://modrinth.com/mod/lazyyyyy">lazyyyyy</a></li>
       <li><a href="https://modrinth.com/mod/lithostitched">Lithostitched</a></li>
-      <li><a href="https://modrinth.com/mod/memoryleakfix">Memory Leak Fix</a></li>
-      <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a></li>
       <li><a href="https://modrinth.com/mod/moonlight">Moonlight Library</a></li>
       <li><a href="https://modrinth.com/mod/octolib">OctoLib</a></li>
       <li><a href="https://modrinth.com/mod/oculus">Oculus</a></li>
@@ -38,6 +29,20 @@
       <li><a href="https://modrinth.com/mod/zeta">Zeta</a></li>
     </ul>
   </section>
+  <section>
+    <h2>Performance Mods</h2>
+    <ul>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/badpackets">Bad Packets</a></li>
+      <li><a href="https://modrinth.com/mod/embeddium">Embeddium</a></li>
+      <li><a href="https://modrinth.com/mod/entityculling">EntityCulling</a></li>
+      <li><a href="https://modrinth.com/mod/ferrite-core">Ferrite Core</a></li>
+      <li><a href="https://modrinth.com/mod/flerovium">Flerovium</a></li>
+      <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a></li>
+      <li><a href="https://modrinth.com/mod/memoryleakfix">Memory Leak Fix</a></li>
+      <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a></li>
+    </ul>
+  </section>
+
 
   <section>
     <h2>World Generation & Biomes</h2>
