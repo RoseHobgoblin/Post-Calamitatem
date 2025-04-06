@@ -14,6 +14,7 @@
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/balm">Balm</a></li>
       <li><a href="https://modrinth.com/mod/badpackets">Bad Packets</a></li>
       <li><a href="https://modrinth.com/mod/corgilib">CorgiLib</a></li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/creativecore"></a>CreativeCore</li>
       <li><a href="https://modrinth.com/mod/forgeified-fabric-api">Forgified Fabric API</a></li>
       <li><a href="https://modrinth.com/mod/geckolib">GeckoLib 4</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/integrated-api">Integrated API</li>
@@ -55,18 +56,17 @@
   </section>
 
   <section>
-    <h2>Graphics</h2>
+    <h2>Graphics & Sound</h2>
     <ul>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/ambientsounds">AmbientSounds 6</a>
       <li><a href="https://modrinth.com/mod/etf">ETF (Enhanced Textures & Features)</a> – Overhauls entity rendering for more vivid visuals.</li>
       <li><a href="https://modrinth.com/mod/emf">EMF (Enhanced Mobs & Features)</a> – Enhances and expands vanilla mobs with visual and functional improvements.</li>
       <li><a href="https://modrinth.com/mod/oculus">Oculus</a></li>
-      
-      <li><a href=""></a>
-      <li><a href=""></a>
-      <li><a href=""></a>
-      <li><a href=""></a>
-      <li><a href=""></a>
-      <li><a href=""></a>
+      <li><a href="https://modrinth.com/mod/sound-physics-remastered">Sound Physics Remastered</a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
     </ul>
   </section>
 
@@ -84,7 +84,6 @@
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts">YUNG's Better Mineshafts</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses">YUNG's Better Nether Fortresses</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments">YUNG's Better Ocean Monuments</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds">YUNG's Better Strongholds</a></li>
     </ul>
   </section>
 
