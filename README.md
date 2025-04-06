@@ -13,8 +13,9 @@
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/architectury-api">Architectury</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/balm">Balm</a></li>
       <li><a href="https://modrinth.com/mod/badpackets">Bad Packets</a></li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/citadel">Citadel</a></li>
       <li><a href="https://modrinth.com/mod/corgilib">CorgiLib</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/creativecore"></a>CreativeCore</li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/creativecore">CreativeCore</a></li>
       <li><a href="https://modrinth.com/mod/forgeified-fabric-api">Forgified Fabric API</a></li>
       <li><a href="https://modrinth.com/mod/geckolib">GeckoLib 4</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/integrated-api">Integrated API</li>
@@ -65,8 +66,6 @@
       <li><a href="https://modrinth.com/mod/sound-physics-remastered">Sound Physics Remastered</a></li>
       <li><a href=""></a></li>
       <li><a href=""></a></li>
-      <li><a href=""></a></li>
-      <li><a href=""></a></li>
     </ul>
   </section>
 
@@ -95,6 +94,8 @@
       <li><a href="https://modrinth.com/mod/appleskin">AppleSkin</a></li>
       <li><a href="https://modrinth.com/mod/create">Create</a></li>
       <li><a href="https://modrinth.com/mod/create-waystones-recipes">Create: Waystones Recipes</a></li>
+      <li><a href="https://modrinth.com/mod/every-compat">Every Compat (Wood Good)</a></li>
+      <li><a href="https://modrinth.com/mod/stone-zone">Every Compat (Stone Zone)</a></li>
       <li><a href="https://modrinth.com/mod/farmers-delight">Farmer’s Delight</a></li>
       <li><a href="https://modrinth.com/mod/jei">Just Enough Items (JEI)</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark</a></li>
