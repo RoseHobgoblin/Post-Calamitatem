@@ -75,7 +75,6 @@
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/integrated-dungeons-and-structures">Integrated Dungeons and Structures (IDAS)</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold">Integrated Stronghold</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/integrated-villages">Integrated Villages</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-forge">Repurposed Structures</a> – Expands and varies vanilla structures across biomes.</li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples">YUNG's Better Desert Temples</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons">YUNG's Better Dungeons</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island">YUNG's Better End Island</a></li>
@@ -97,8 +96,11 @@
       <li><a href="https://modrinth.com/mod/every-compat">Every Compat (Wood Good)</a></li>
       <li><a href="https://modrinth.com/mod/stone-zone">Every Compat (Stone Zone)</a></li>
       <li><a href="https://modrinth.com/mod/farmers-delight">Farmer’s Delight</a></li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/female-gender">Female Gender Mod</a></li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/first-person-model">First-person Model</a></li>
       <li><a href="https://modrinth.com/mod/jei">Just Enough Items (JEI)</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark</a></li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">Skin Layers 3D</a></li>
       <li><a href="https://modrinth.com/mod/supplementaries">Supplementaries</a></li>
       <li><a href="https://modrinth.com/mod/trashslot">TrashSlot</a></li>
       <li><a href="https://modrinth.com/mod/waystones">Waystones</a></li>
