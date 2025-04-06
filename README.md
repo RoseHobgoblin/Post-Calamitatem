@@ -99,6 +99,7 @@
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/female-gender">Female Gender Mod</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/first-person-model">First-person Model</a></li>
       <li><a href="https://modrinth.com/mod/jei">Just Enough Items (JEI)</a></li>
+      <li><a href="https://modrinth.com/mod/not-enough-animations">Not Enough Animations</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark</a></li>
       <li><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">Skin Layers 3D</a></li>
       <li><a href="https://modrinth.com/mod/supplementaries">Supplementaries</a></li>
