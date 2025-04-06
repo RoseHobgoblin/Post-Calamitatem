@@ -3,15 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Post Calamitatem Modpack Documentation</title>
-  <style>
-    body { font-family: sans-serif; line-height: 1.6; margin: 2rem; background-color: #f4f4f4; color: #333; }
-    h1, h2 { color: #2a2a2a; }
-    h1 { border-bottom: 2px solid #ccc; padding-bottom: 0.3rem; }
-    ul { list-style-type: disc; margin-left: 1.5rem; }
-    section { margin-bottom: 2rem; }
-    a { color: #007acc; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
 </head>
 <body>
 
